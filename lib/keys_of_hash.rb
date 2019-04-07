@@ -3,5 +3,6 @@ class Hash
     arguments.each do |key, value|
       if key == arguments
         array = *value
+      end
   end
 end
