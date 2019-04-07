@@ -4,5 +4,6 @@ class Hash
       if key == arguments
         array = *value
       end
+    end
   end
 end
